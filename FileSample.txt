@@ -1,2 +1,4 @@
 Sample Text
 This is completely different line 2
+Another line for this file
+
