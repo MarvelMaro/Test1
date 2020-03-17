@@ -1,1 +1,2 @@
 Sample Text
+This is completely different line 2
